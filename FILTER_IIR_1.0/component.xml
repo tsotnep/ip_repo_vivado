@@ -929,7 +929,7 @@
       </xilinx:taxonomies>
       <xilinx:displayName>FILTER_IIR_v1.0</xilinx:displayName>
       <xilinx:coreRevision>1</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2016-04-05T18:20:41Z</xilinx:coreCreationDateTime>
+      <xilinx:coreCreationDateTime>2016-04-05T18:34:09Z</xilinx:coreCreationDateTime>
       <xilinx:tags>
         <xilinx:tag xilinx:name="tsotnep:userLibrary:FILTER_IIR:1.0_ARCHIVE_LOCATION">/home/tsotne/workspaceVivado/ip_repo/FILTER_IIR_1.0</xilinx:tag>
       </xilinx:tags>
